@@ -117,3 +117,5 @@ cd website
 ls --color=auto
 echo hello website
 touch index.html
+touch stylee.css
+touch styles.css
